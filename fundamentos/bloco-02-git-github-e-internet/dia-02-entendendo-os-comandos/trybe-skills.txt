@@ -3,5 +3,11 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+<<<<<<< HEAD
 -HTML
 - CSS
+=======
+- HTML
+- CSS
+- JavaScript
+>>>>>>> dc7914cd54d00ad01ccc6e9a70e41a5ccc67ab2a
