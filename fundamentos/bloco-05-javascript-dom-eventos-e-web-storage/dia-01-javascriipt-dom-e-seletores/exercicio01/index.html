@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph" class="paragrafo">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph" class="paragrafo">Segundo parágrafo!</p>
+    </header>
+    <script>
+      document.getElementById("page-title").innerText = "O Resgate do Soldado Ryan";  
+      const paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+      document.getElementById("second-paragraph").innerText = "Exercício inicial da parte sobre DOM da Trybe. Sinceramente, eu gostaria de estar descansando e aproveitando a tarde para fazer algo prazeroso, após um dia anterior inteiro dedicado ao projeto, porém sacrifico esses momentos durante a semana para aprender e buscar um futuro melhor. OMAHA! OMAHA!!!"
+      document.getElementById("subtitle").innerText = "Um subtítulo parecido com o título, porém menor"
+      const firstParagraph = document.getElementsByClassName("paragrafo")[0];
+      firstParagraph.style.color = "green";
+      const subtitulo = document.getElementsByTagName("h4")[0];
+      subtitulo.style.color = "blue";
+    </script>
+  </body>
+</html>
