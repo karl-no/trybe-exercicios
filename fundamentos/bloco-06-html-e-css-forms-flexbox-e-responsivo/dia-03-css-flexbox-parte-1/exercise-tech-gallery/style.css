@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu';
+  }
+  
+  .header-img {
+    width: 70px;
+  }
+  
+  .gallery-img {
+    width: 150px;
+  }
+  
+  .social-img {
+    width: 25px;
+    margin-left: 10px;
+  }
+  
+  h1 {
+    font-size: larger;
+  }
+  
+  h3 {
+    color: rgb(171, 171, 171);
+    font-size: medium;
+  }
+  
+  .header {
+    background-color: rgb(38, 37, 37);
+    color: rgb(242, 231, 231);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .section-p {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 26px;
+  }
+  
+  .tech-gallery {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .html-logo, .css-logo, .javaScript-logo, .react-logo, .rtl-logo, .redux-logo {
+    text-align: center;
+    background-color: rgb(238, 235, 235);
+    padding: 15px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px rgb(183, 182, 182);
+    margin: 5px;
+  }
+  
+  .footer {
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+  }
