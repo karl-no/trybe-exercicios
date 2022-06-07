@@ -35,3 +35,30 @@ O que fazer com as informações do autor em cada tamanho de tela? */
     }
 
 }
+
+@media screen and (min-width: 801px) and (max-width: 1300px) {
+    body {
+        margin: 40px;
+        background-color: aliceblue;
+    }
+
+    header p, h2, h1 {
+        margin: 1em;
+    }
+
+    article p {
+        margin: 2em;
+        font-size: 18px;
+    }
+
+    .aside {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+    }
+    
+    footer {
+        text-align: center;
+        margin: 0 2em;
+    }
+}
