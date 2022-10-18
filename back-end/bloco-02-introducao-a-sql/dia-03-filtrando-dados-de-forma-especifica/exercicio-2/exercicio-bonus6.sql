@@ -1,0 +1,4 @@
+USE Scientists;
+SELECT * FROM Projects
+WHERE Hours BETWEEN 250 AND 800;
+-- WHERE Hours > 250 AND < 800;
