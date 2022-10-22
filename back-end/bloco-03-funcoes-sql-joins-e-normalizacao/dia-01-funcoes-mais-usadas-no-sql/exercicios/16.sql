@@ -1,0 +1,1 @@
+SELECT CONCAT(LCASE(first_name), ' ', LCASE(last_name)) AS `Nome` FROM hr.employees;
