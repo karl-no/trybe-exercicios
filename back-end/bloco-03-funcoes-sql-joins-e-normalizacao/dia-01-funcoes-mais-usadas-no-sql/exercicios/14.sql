@@ -1,0 +1,1 @@
+SELECT employee_id, first_name, DAY(hire_date) AS `Dia de contratação` FROM hr.employees;
