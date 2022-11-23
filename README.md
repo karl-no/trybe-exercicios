@@ -8,32 +8,32 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: IntroduÃ§Ã£o - Unix & Shell
+##### Bloco 1: Unix & Shell
 
-- [X] 1-3: _Unix & Shell- Part 1_
-- [X] 1-4: _Unix & Shell- Part 2_
+- [X] 1-3: _Unix & Bash- Part 1_
+- [X] 1-4: _Unix & Bash- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [X] 2-1: _O que Ã© e para que serve?_
+- [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
-- [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: IntroduÃ§Ã£o - HTML & CSS
+##### Bloco 3: Introdução - HTML & CSS
 
-- [X] 3-1: _HTML & CSS - Estruturas de pÃ¡gina_
+- [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [X] 3-4: _HTML SemÃ¢ntico_
-- [X] 3-5: _[Projeto - HTML & CSS]()_
+- [X] 3-4: _HTML Semântico_
+- [X] 3-5: _[Projeto - Lessons Learned]()_
 
 ##### Bloco 4: IntroduÃ§Ã£o - JavaScript
 
 - [X] 4-1: _JavaScript - Primeiros passos_
 - [X] 4-2: _JavaScript - Array e loop For_
-- [X] 4-3: _JavaScript - LÃ³gica de ProgramaÃ§Ã£o e Algoritmos_
-- [X] 4-4: _JavaScript - Objetos e funÃ§Ãµes_
-- [X] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [X] 4-4: _JavaScript - Objetos e funções_
+- [X] 4-5: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 4-6: _[Projeto - Playground Functions]()_
 
 ##### Bloco 5: IntroduÃ§Ã£o - JavaScript - Projetos
 
@@ -41,11 +41,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [X] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [X] 5-5: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[Projeto - Meme Generator]()_
+- [ ] 5-6: _[Projeto - Lista de tarefas]()_
+- [ ] 5-6: _[Projeto - Adivinhe a Cor]()_
+- [ ] 5-6: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avanÃ§ado
 
@@ -54,22 +54,23 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-3: _CSS Flexbox - Part 1_
 - [X] 6-4: _CSS Flexbox - Part 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
+- [X] 6-6: _[Projeto - Trybewarts]()_
 
 ##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
 
-- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X] 7-2: _JavaScript ES6 - Objects_
-- [X] 7-3: _Testes unitÃ¡rios em JavaScript_
-- [X] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
+- [X] 7-1: _JavaScript ES6 - Fluxo de exceções e manipulação de objetos_
+- [X] 7-2: _Testes unitários - Primeiros passos em Jest_
+- [X] 7-3: _Testes unitários - Matchers e cobertura de código_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: JavaScript ES6
 
-- [X] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [X] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [X] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [X] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [X] 8-5: _[Projeto - Zoo functions]()_
+- [X] 8-1: _JavaScript ES6 - Higher Order Functions - Introdução a Higher Order Functions_
+- [X] 8-2: _JavaScript ES6 - Higher Order Functions - sort e map_
+- [X] 8-3: _JavaScript ES6 - Higher Order Functions - filter e reduce_
+- [X] 8-4: _JavaScript ES6 - spread operator, rest parameter e object destructuring_
+- [X] 8-5: _JavaScript ES6 - array destructuring, Default destructuring, Object property shorthand e default parameters_
+- [X] 8-6: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
