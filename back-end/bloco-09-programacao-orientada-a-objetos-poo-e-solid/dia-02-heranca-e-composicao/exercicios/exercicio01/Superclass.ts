@@ -10,10 +10,17 @@ class Superclass {
   }
 }
 
-class Subclass extends Superclass { }
+class Subclass extends Superclass {
+  constructor() {
+    super();
+    this.isSuper = false;
+  }
+ }
 
 const myFunc = (superclass: Superclass) => {
   superclass.sayHello();
+  console.log(superclass.isSuper ? "Super!" : "Sub!");
+  
 }
 
 const superClass1 = new Superclass();
