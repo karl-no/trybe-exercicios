@@ -1,0 +1,4 @@
+use ("conteudo_trybe");
+db.scores.update({ _id: 1 }, { $min: { lowScore: 150 } });
+db.scores.update({ _id: 1 }, { $max: { highScore: 950 } });
+db.scores.find();
