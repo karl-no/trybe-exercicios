@@ -1,0 +1,9 @@
+use("sales");
+db.inventory.insertOne(
+  {
+    _id: 2,
+    item: "cable",
+    tags: ["electronics", "supplies"]
+  }
+);
+db.inventory.find({});
