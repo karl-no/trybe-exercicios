@@ -1,0 +1,9 @@
+use("sales");
+db.inventory.insertOne(
+  {
+    _id: 1,
+    item: "polarizing_filter",
+    tags: ["electronics", "camera"],
+  }
+);
+db.inverntory.find({});
